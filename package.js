@@ -1,9 +1,4 @@
-{
-  "name": "11tytry",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
+s": {
     "start": "eleventy --serve",
     "build": "eleventy"
   },
@@ -13,5 +8,4 @@
   
 }, 
 "devDependencies":{
-    "@11ty/eleventy":"^0.12.1"
-}
+    
